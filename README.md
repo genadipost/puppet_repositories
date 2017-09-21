@@ -1,7 +1,7 @@
 puppet_repositories
 =========
 
-Configure Puppet yum repository.
+Configure Puppet yum repository.</br>
 The role was copied from the [theforeman/forklift project](https://github.com/theforeman/forklift/tree/master/roles/puppet_repositories).
 
 Requirements
