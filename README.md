@@ -10,7 +10,9 @@ Requirements
 Role Variables
 --------------
 
-| puppet_repositories_version | Please fill the description. | No | 4 | - | Please fill the example. |
+| Name    | Description    | Required    | Default    | Values | Examples |
+|:--|:--|:-:|:-:|:-:|:--|
+| puppet_repositories_version | puppet version | No | 4 | - | 5 |
 
 Dependencies
 ------------
