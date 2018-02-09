@@ -12,7 +12,7 @@ Role Variables
 
 | Name    | Description    | Required    | Default    | Values | Examples |
 |:--|:--|:-:|:-:|:-:|:--|
-| puppet_repositories_version | puppet version | No | 4 | - | 5 |
+| puppet_repositories_version | puppet version | No | 5 | - | 4 |
 
 Dependencies
 ------------
